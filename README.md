@@ -23,3 +23,16 @@ remote: Enumerating objects: 136, done.
 ...
 ```
 
+Install dependencies:
+
+```
+ server git:(master) npm i
+```
+
+Now run the server:
+
+```
+npm run server
+```
+
+You can see it running in `localhost:3000`

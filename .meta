@@ -1,5 +1,18 @@
+.git
+.gitignore
+.meta
+.meta.bak
+en.javascript.info
+server
 {
   "projects": {
-    "en.javascript.info": "git@github.com:javascript-tutorial/server.git"
-  }
+    "en.javascript.info": "git@github.com:javascript-tutorial/en.javascript.info.git",
+    "server": "git@github.com:javascript-tutorial/server.git"
+  },
+  "ignore": [
+    "node_modules",
+    ".git",
+    ".vscode",
+    ".vagrant"
+  ]
 }

@@ -1,4 +1,12 @@
-# Cloning this repo
+# The Book JavaScript.Info
+
+## Buy the book
+
+You can buy the book at:
+
+[Buy EPUB/PDF for offline reading](https://javascript.info/ebook)
+
+## Installing the book locally
 
 Install [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org). 
 

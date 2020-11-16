@@ -1,6 +1,17 @@
 # Cloning this repo
 
+Install [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org). 
+
+Please use Node.js 10+.
+
+
+
 Install [meta](https://www.npmjs.com/package/meta) in your machine.
+Install global Node modules:
+
+```bash
+npm install -g meta bunyan gulp@4
+```
 
 Run:
 

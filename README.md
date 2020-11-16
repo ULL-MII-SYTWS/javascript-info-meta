@@ -43,3 +43,8 @@ npm run server
 ```
 
 You can see it running in `localhost:3000`
+
+## See also
+
+* [Tutorial to Install the Server](https://github.com/javascript-tutorial/server)
+* [The Modern JavaScript Tutorial GitHub Organization](https://github.com/javascript-tutorial)

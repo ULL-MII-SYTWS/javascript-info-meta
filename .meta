@@ -1,9 +1,3 @@
-.git
-.gitignore
-.meta
-.meta.bak
-en.javascript.info
-server
 {
   "projects": {
     "en.javascript.info": "git@github.com:javascript-tutorial/en.javascript.info.git",

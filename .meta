@@ -1,7 +1,7 @@
 {
   "projects": {
     "en.javascript.info": "git@github.com:javascript-tutorial/en.javascript.info.git",
-    "server": "git@github.com:javascript-tutorial/server.git"
+    "server": "git@github.com:ULL-MII-SYTWS-1920/server.git"
   },
   "ignore": [
     "node_modules",
